@@ -15,6 +15,7 @@ This game comprises four files: the main file, the game title, the main menu, an
   2. Selecting the "how to play" option will lead the player to another screen, where they will find basic information on how to play Tic-Tac-Toe, including instructions on how to interact with the game board.
  
 ![Screenshot of the game instruction, a 3 by 3 grid is shown with numbers from 1 to 9 in each grid](README_images/instructions.png)
+
   3. Finally, selecting the "exit the game" option will terminate the program.
 - The game logic is the player's third screen, where they can engage with the main game. In case the player requires assistance with the game controls, they can pause the game at any point by selecting the instructions option. Once they have reviewed the instructions, the game will resume from where it was paused.
 
